@@ -1,0 +1,7 @@
+link zsh config to original path and your file 
+your all config should be in ~/.config
+pywal isntall  ; to change colour with wallpaper 
+zsh-syntax-highlightings install
+git install 
+pamixer pulsemixer 
+some fonts your have to get it
